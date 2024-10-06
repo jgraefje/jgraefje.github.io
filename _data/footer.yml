@@ -1,0 +1,6 @@
+- name: Impressum
+  link: /impressum.html
+- name: Privacy
+  link: /privacy.html
+- name: Copyright
+  link: /copyright.html
