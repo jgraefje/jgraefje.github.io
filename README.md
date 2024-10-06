@@ -1,2 +1,2 @@
 # jgraefje.github.io
-MY personal website
+My personal website
