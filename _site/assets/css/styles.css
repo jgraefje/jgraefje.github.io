@@ -7,9 +7,6 @@
   background: #3D52D5;
   color: white; }
 
-.nav {
-  background: #64E9EE; }
-
 .nav ul {
   list-style-type: none;
   background-color: #333;
@@ -24,7 +21,7 @@
 .nav li last-child {
   border-right: none; }
 
-.nav li a {
+.nav a {
   display: block;
   color: white;
   text-align: center;

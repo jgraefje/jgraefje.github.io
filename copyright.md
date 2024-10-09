@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Privacy policy
+title: Copyright policy
 ---
 # {{ page.title}}
