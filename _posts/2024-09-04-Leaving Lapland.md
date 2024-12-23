@@ -1,0 +1,52 @@
+---
+layout: post
+author: Jan
+---
+September 3rd is our last full day in Rovaniemi and we head to Rovaniemi's Arktikum museum. Most of the museum is buried in a hillside with a glass-covered, multi-story concourse running under a highway and jutting out of the hill towards the river confluence. Branching out from there are a science exhibition about Lapland, currently under renovation, and the regional museum covering history, culture and a bit of the nature of the region.
+
+<figure>
+    <img src="/assets/images/20240903-P1594692.jpg">
+    <figcaption> The <a href="https://en.wikipedia.org/wiki/Swedish_torch" target="_blank"> Lumberjack's Candle Bridge</a>, we never ended up seeing the candle-inspired lighting particularly well. </figcaption>
+    <img src="/assets/images/20240903-P1594685.jpg">
+    <img src="/assets/images/20240903-P1594689.jpg">
+    <figcaption> Concourse of the Arktikum museum </figcaption>
+</figure>
+
+The first part of the exhibition covers the history of Rovaniemi, starting out from non-urban indigenous population, continuing as a colonial frontier town for resource extraction, particularly wood floated down the Kemijoki, up until the rebirth of the destroyed city after world war 2. This last episode takes up quite some space and is still viewed rather ambivalently:
+
+After the Third Reich had supported Finland through the Winter War, the two countries became allies in the invasion of the Soviet Union in 1941 known as the "continuation war" in Finland. While the Finnish Army was stationed in the southern half of Finland and focused its efforts on the encirclement of Leningrad (St. Petersburg) along the Karelian Isthmus and Lake Ladoga, the Wehrmacht and Waffen-SS aimed to cut the supply line of allied lend-lease at the port of Murmansk or the railway line connecting it to the rest of Russia. Both efforts stalled and in 1944 the frontline was stalled a few kilometres inside the Soviet Union. Finland signed an armistice with the Soviet Union in September 1944, one of the stipulations being that all German troops were to be forcibly expelled from the country. This development came as no surprise to Germany and plans for a withdrawal to the north of German-occupied Norway had been drawn up long in advance. Furthermore, the Finnish Army was highly unwilling to fight against their former allies and did not seriously engage the Germans until the Soviet Union exerted increasing pressure on the Finnish government. In combination the German troops were mostly able to pull of their ordered retreat with low losses. However, their extensive use of land mines and burnt earth-strategies quickly led to a souring of relations with the sparse Finnish population and the "Lapland War" was pursued with increasing intensity and acrimony until its conclusion in the spring of 1945, leaving towns in Lapland devastated and the mostly wood-built Rovaniemi completely destroyed.
+
+<figure>
+    <img src="/assets/images/20240903-P1594617.jpg">
+    <figcaption> Rovaniemi before... </figcaption>
+    <img src="/assets/images/20240903-P1594633.jpg">
+    <img src="/assets/images/20240903-P1594626.jpg">
+    <figcaption> ... and after the Lapland war in 1944 - 1945. </figcaption>
+</figure>
+
+The result is an ambivalent view of Germany: Cultural and trade connections going back a long time, German support in the Winter War and the generally friendly contacts with German troops during the continuation war on the one side and the generally despised destruction and looting during the Lapland War on the other side. But all of this is overshadowed still by the presence of Russia along the nearby border: The territories of Petsamo and Salla, ceded after the Winter War, both have an independent exhibition in the museum, that could aptly be described as "shrines" designed to keep alive the memory of territories considered Finnish.
+
+The second controversial topic of the exhibition is the relation to the indigenous Sami people, but this is handled with the general tact and care expected of such an exhibition these days. Accompanied by lots of models and interactive displays the museum is generally a pleasant visit.
+
+<figure>
+    <img src="/assets/images/20240903-P1594676.jpg">
+    <img src="/assets/images/20240903-P1594662.jpg">
+    <img src="/assets/images/20240903-P1594646.jpg">
+    <img src="/assets/images/20240903-P1594669.jpg">
+</figure>
+
+After the last dinner of the vacation there is a last attempt at birding at the Harjulampi lake. And of course because it is within the built-up city area of Rovaniemi there are several easily visible ducks, teals and wigeons (dt. Stockenten, Krickenten und Pfeifenten) on an area of barely a few acres; silly us trying to go out to several square kilometres of water a few days ago.
+
+<figure>
+    <img src="/assets/images/20240903-P1594726.jpg">
+    <img src="/assets/images/20240903-P1594738.jpg">
+    <img src="/assets/images/20240903-P1594762.jpg">
+    <img src="/assets/images/20240903-P1594768.jpg">
+    <figcaption> Eurasian Wigeon, dt. Pfeifente </figcaption>
+    <img src="/assets/images/20240903-P1594810.jpg">
+</figure>
+
+On September 4th we head back to Germany. Traveling through Rovaniemi Airport is generally a pleasant experience: the terminal is small, featuring many understated wood accents and with two commercial flights per day at this time of year there is little hustle or bustle. But while the sound of military jets taking off was occasionally audible over the last days, they are screaming overhead at frequent intervals today, seemingly doing touch-and-go-landings somewhere in the trees behind the airport. When we sit behind a press officer of the Luftwaffe in the plane (who is very loudly unhappy about the sloppy journalistic practices of a major German newspaper) and see three Eurofighters and an A400M on the apron, it becomes clear that a bigger affair seems to be underway here. And indeed, back home I find the <a href="https://ac.nato.int/archive/2024/nato-allies-refine-agile-combat-employment-on-finnish-highways-" target="_blank"> relevant press release</a>. So the story comes full circle, the German Armed Forces are back in Rovaniemi with a suspicious eye, this time at the Northern Fleet and nuclear submarines stationed in Murmansk 500km away, and the Luftwaffe is relearning, how to land on a highway as an improvised runway - Zeitenwende in practice.
+
+
+The journey back is mostly smooth, changing planes in Helsinki is a bit stressful, but blueberry juice on the plane makes up for some of the trouble. Several of the Finnish qualities immediately become apparent, when we step into a train full of annoying, loud Germans (and a single polite British tourist) back in Berlin . It feels like we saw fewer people in all of Lapland than in this one train.
