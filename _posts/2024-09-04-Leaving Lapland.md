@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Leaving Lapland
 author: Jan
 ---
 September 3rd is our last full day in Rovaniemi and we head to Rovaniemi's Arktikum museum. Most of the museum is buried in a hillside with a glass-covered, multi-story concourse running under a highway and jutting out of the hill towards the river confluence. Branching out from there are a science exhibition about Lapland, currently under renovation, and the regional museum covering history, culture and a bit of the nature of the region.
