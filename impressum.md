@@ -2,6 +2,8 @@
 layout: default
 title: Impressum
 ---
+*The following information is required by German law.*
+
 # {{ page.title }}
 
 Angaben gemäß § 5 DDG
