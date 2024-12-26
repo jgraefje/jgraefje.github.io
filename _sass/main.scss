@@ -3,10 +3,20 @@
 }
 
 .header {
-    padding: 80px;
     text-align: center;
-    background: #3D52D5;
-    color: white;
+    color: black;
+    background-size: cover; /* Resize the background image to cover the entire container */
+    background-position: center; /* Center the image */
+    background-image: url("../images/header/P1594310.jpg");
+    background-color: #3D52D5;
+    background-repeat: no-repeat; /* Do not repeat the image */
+    height: 40vh;
+    line-height: 15vh;
+}
+
+.body {
+    height: 100%;
+    width: 100%;
 }
 
 .nav ul {
