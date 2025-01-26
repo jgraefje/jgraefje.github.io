@@ -13,7 +13,14 @@ I went on a short trip to Jungfernheide today, a mid-sized park in the north-wes
     <figcaption> A Black Woodpecker </figcaption>
 </figure>
 
-Soon after the woodpecker vanished into his dead tree and got to work there. His forceful pecking made the hollow tree ring and was still audible for another hundred meters.
+Soon after the woodpecker vanished into his dead tree and got to work there. His forceful pecking made the hollow tree ring and was still audible for another hundred meters. There is also a small animal enclosure with ducks walking around somewhat peculiarly.
+
+<figure>
+    <video width="480" height="640" controls>
+    <source src="/assets/videos/20250126-ducks.mov" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
+</figure>
 
 On my way back to the U-Bahn station "Siemensdamm" the tenement blocks took on a markedly different quality than those a few hundred meters further. A mix of well-mainted shining white paint, clear straight lines everywhere and impractical dilapitated fixtures - I happened onto a Bauhaus. And indeed, Siemensstadt is home to one of the Bauhaus UNESCO heritage sites in Berlin, the <a href="https://de.wikipedia.org/wiki/Gro%C3%9Fsiedlung_Siemensstadt" target="_blank"> Ringsiedlung Siemensstadt</a>.
 
